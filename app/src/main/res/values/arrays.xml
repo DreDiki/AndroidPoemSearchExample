@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cate">
+        <item>Name</item>
+        <item>Author</item>
+        <item>Content</item>
+        <item>Comment</item>
+        <item>Translation</item>
+        <item>Annotation</item>
+    </string-array>
+</resources>
